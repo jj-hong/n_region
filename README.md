@@ -19,14 +19,14 @@ France
 Georgia
 Germany
 Greece
-Hong_Kong
+#Hong_Kong
 Hungary
 Iceland
 Indonesia
 Ireland
 Israel
 Italy
-#Japan
+Japan
 Latvia
 Lithuania
 Luxembourg
