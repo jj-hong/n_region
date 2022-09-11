@@ -26,7 +26,7 @@ Indonesia
 Ireland
 Israel
 Italy
-Japan
+#Japan
 Latvia
 Lithuania
 Luxembourg
@@ -60,7 +60,7 @@ Vietnam
 Atlanta
 Buffalo
 Charlotte
-#Chicago
+Chicago
 Dallas
 Denver
 Kansas_City
